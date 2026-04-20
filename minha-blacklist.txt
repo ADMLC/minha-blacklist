@@ -1,0 +1,38 @@
+# Casas de aposta populares
+bet365.com
+betano.com
+sportingbet.com
+betfair.com
+1xbet.com
+betway.com
+pixbet.com
+kto.com
+stake.com
+blaze.com
+
+# Subdomínios comuns
+*.bet365.com
+*.betano.com
+*.sportingbet.com
+*.betfair.com
+*.1xbet.com
+*.betway.com
+*.pixbet.com
+*.kto.com
+*.stake.com
+*.blaze.com
+
+# Redes de anúncios ligadas a apostas
+ads.betfair.com
+ads.bet365.com
+marketing.betano.com
+affiliate.betano.com
+tracking.sportingbet.com
+
+# Palavras-chave (funciona no AdGuard Home / filtros avançados)
+||bet^
+||casino^
+||apostas^
+||gambling^
+||sportsbook^
+||betting^
